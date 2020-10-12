@@ -1,0 +1,15 @@
+"C:\dev\EmbeddedWorkbench8.4\arm\bin\armproc.dll" 
+
+"C:\dev\EmbeddedWorkbench8.4\arm\bin\armstlink2.dll" 
+
+"D:\pknuBSJ\ARM\0625_TEST\EWARM\0625_TEST\Exe\0625_TEST.out" 
+
+--plugin="C:\dev\EmbeddedWorkbench8.4\arm\bin\armbat.dll" 
+
+--device_macro="C:\dev\EmbeddedWorkbench8.4\arm\config\debugger\ST\STM32F4xx.dmac" 
+
+--flash_loader="C:\dev\EmbeddedWorkbench8.4\arm\config\flashloader\ST\FlashSTM32F4xxx.board" 
+
+
+
+
